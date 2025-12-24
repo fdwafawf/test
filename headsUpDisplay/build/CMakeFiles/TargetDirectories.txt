@@ -1,0 +1,4 @@
+D:/A_Projects/headsUpDisplay/build/CMakeFiles/headsUpDisplay.dir
+D:/A_Projects/headsUpDisplay/build/CMakeFiles/edit_cache.dir
+D:/A_Projects/headsUpDisplay/build/CMakeFiles/rebuild_cache.dir
+D:/A_Projects/headsUpDisplay/build/CMakeFiles/headsUpDisplay_autogen.dir

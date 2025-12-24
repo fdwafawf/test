@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/A_Projects/headsUpDisplay/build",
+  "command": "D:\\Qt\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/headsUpDisplay.dir/includes_CXX.rsp -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\headsUpDisplay.dir\\headsUpDisplay_autogen\\mocs_compilation.cpp.obj -c D:\\A_Projects\\headsUpDisplay\\build\\headsUpDisplay_autogen\\mocs_compilation.cpp",
+  "file": "D:/A_Projects/headsUpDisplay/build/headsUpDisplay_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/headsUpDisplay.dir/headsUpDisplay_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "D:/A_Projects/headsUpDisplay/build",
+  "command": "D:\\Qt\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/headsUpDisplay.dir/includes_CXX.rsp -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\headsUpDisplay.dir\\src\\main.cpp.obj -c D:\\A_Projects\\headsUpDisplay\\src\\main.cpp",
+  "file": "D:/A_Projects/headsUpDisplay/src/main.cpp",
+  "output": "CMakeFiles/headsUpDisplay.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/A_Projects/headsUpDisplay/build",
+  "command": "D:\\Qt\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/headsUpDisplay.dir/includes_CXX.rsp -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\headsUpDisplay.dir\\src\\headsUpDisplay.cpp.obj -c D:\\A_Projects\\headsUpDisplay\\src\\headsUpDisplay.cpp",
+  "file": "D:/A_Projects/headsUpDisplay/src/headsUpDisplay.cpp",
+  "output": "CMakeFiles/headsUpDisplay.dir/src/headsUpDisplay.cpp.obj"
+},
+{
+  "directory": "D:/A_Projects/headsUpDisplay/build",
+  "command": "D:\\Qt\\Tools\\mingw730_64\\bin\\g++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB @CMakeFiles/headsUpDisplay.dir/includes_CXX.rsp -DQT_QML_DEBUG -DQT_DECLARATIVE_DEBUG -g -std=gnu++11 -o CMakeFiles\\headsUpDisplay.dir\\src\\systemMonitor.cpp.obj -c D:\\A_Projects\\headsUpDisplay\\src\\systemMonitor.cpp",
+  "file": "D:/A_Projects/headsUpDisplay/src/systemMonitor.cpp",
+  "output": "CMakeFiles/headsUpDisplay.dir/src/systemMonitor.cpp.obj"
+}
+]
