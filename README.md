@@ -64,14 +64,14 @@ headsUpDisplay/
 ### 环境要求
 
 - CMake 3.10 或更高版本
-- Qt 5.14.2 或兼容版本
+- Qt 5.12+ (推荐 Qt 5.14.2 或更高版本)
 - MinGW 或 MSVC 编译器（Windows）
 
 ### 构建步骤
 
 1. 修改 `CMakeLists.txt` 中的 Qt 路径：
    ```cmake
-   set(CMAKE_PREFIX_PATH "D:/Qt/5.14.2/mingw73_64") # 改为你的 Qt 安装路径
+   set(CMAKE_PREFIX_PATH "你的Qt安装路径/5.14.2/mingw73_64") # 例如: "C:/Qt/5.14.2/mingw73_64"
    ```
 
 2. 创建构建目录并编译：
